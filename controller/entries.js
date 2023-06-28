@@ -1,7 +1,7 @@
 //importiere Model:
 
 const Entry = require("../models/Entry");
-const { all } = require("../routes/entries");
+// const { all } = require("../routes/entries");
 
 //Funktionen, die an entsprechenden Endpunkten aufgerufen werden und Daten aus der DB createn, readen, updaten, deleten
 
